@@ -1,0 +1,416 @@
+id,name
+1,Alachua
+2,Avon Park
+3,Flagler Beach
+4,Jacksonville Beach
+5,Parkland
+6,Apalachicola
+7,Marco Island
+8,Pinellas Park
+9,De Bary
+10,Plant City
+11,Tavares
+12,Rockledge 
+13,Palm Beach Gardens
+14,Wildwood
+15,Treasure Island
+16,Venice  
+17,Live Oak
+18,Royal Palm Beach
+19,Midway
+20,Opa-locka
+21,Belleair Beach
+22,Fruitland Park
+23,North Miami Beach
+24,Tampa
+25,Leesburg
+26,Bradenton
+27,Callaway
+28,Altamonte Springs
+29,Miami
+30,Satellite Beach
+31,Lakeland
+32,Atlantis Beach
+33,Wilton Manors  
+34,Indialantic
+35,Tamarac
+36,North Port
+37,Largo
+38,Sebastian
+39,Dunedin
+40,Miami Shores
+41,Charlotte
+42,Village of Palmetto Bay
+44,Key Colony Beach
+45,Clearwater
+46,Hialeah
+47,Oakland Park
+48,Wellington  
+49,Jupiter
+50,Lake Wales
+51,Auburndale Beach
+52,Crystal River
+53,Boynton Beach
+54,Greenacres
+55,Shalimar
+56,Gulfport
+57,Lauderdale-By-The-Sea
+58,Gainesville
+59,Deland Beach
+60,LaBelle
+61,Lake Mary
+62,Dade City
+63,Key West
+64,Belleair Bluffs
+65,Coral Springs
+66,Mascotte
+67,Coral Gables
+68,Casselberry
+69,Neptune Beach
+70,Hawthorne
+71,Daytona Beach
+72,South Pasadena
+73,Palm Bay
+74,Sewall's Point
+75,Safety Harbor
+76,Anna Maria
+77,Miami Beach
+78,Surfside
+79,New Port Richey
+80,Davie
+81,Margate
+82,Key Biscayne
+83,Pompano Beach
+84,Lauderdale Lakes
+85,Dunnellon
+86,Pembroke Pines
+87,Atlantic Beach
+88,Cape Canaveral
+89,Cocoa Beach
+90,Delray Beach
+91,Destin
+92,Cocoa
+93,Palm Beach Town
+94,Tarpon Springs
+95,Hillsboro Beach
+96,Daytona Beach Shores
+97,Miami Gardens
+98,Longwood
+99,Dania Beach
+100,Sanford
+101,Quincy
+102,Merritt Island
+103,Ft. Meade
+104,Ponce Inlet
+105,St. Petersburg
+107,Madeira Beach
+108,Lake Alfred
+109,Hollywood
+110,Miramar
+111,Panama City
+112,Green Cove Springs
+113,Sarasota
+114,Okeechobee
+115,Cape Coral
+116,South Miami
+117,Lake Worth
+118,Chattahoochee
+119,Kissimmee
+120,Lake Park
+121,Homestead
+122,St. Augustine Beach
+123,Oviedo
+124,Pensacola
+125,Boca Raton
+126,Clermont
+127,Temple Terrace
+128,Orlando
+129,Maitland
+131,Palm Beach
+132,Gulf Breeze
+133,Winter Park
+134,Stuart
+135,St. Cloud
+136,Bal Harbour
+137,Titusville
+138,Fernandina Beach
+106,Fort Pierce
+130,Defuniak Springs
+139,Lantana
+140,Oldsmar
+141,Lynn Haven
+142,Edgewood
+143,Punta Gorda
+144,Deltona
+145,Groveland
+146,Aventura
+147,Eustis
+148,North Miami
+149,Edgewater
+150,Pembroke Park
+151,St. Augustine
+152,Cooper City
+153,Lighthouse Point
+154,Everglades City
+155,North Bay Village
+156,Mount Dora
+157,West Palm Beach
+158,Vero Beach  
+159,Plantation
+160,Port St. Lucie
+161,Zolfo Springs
+162,Florida City
+163,St. Pete Beach
+164,West Melbourne
+165,North Lauderdale
+166,Zephyrhills
+167,Ocoee
+168,South Daytona
+169,Lauderhill
+170,Haines
+171,Ocala
+172,Winter Haven  
+173,Valparaiso  
+174,Belle Isle
+175,Winter Spring
+176,Naples
+177,Apopka
+180,Springfield
+181,Palmetto
+182,Jacksonville
+183,Milton
+184,Niceville
+185,Coconut Creek
+186,Hallandale Beach
+187,Port Orange
+188,Juno Beach
+189,Melbourne
+190,Deerfield Beach
+191,New Smyrna Beach
+192,Sanibel
+193,Ormond Beach
+194,Chipley
+195,Tallahassee
+196,Panama City Beach
+197,Palatka
+199,Brooksville
+201,Weston
+202,Hypoluxo
+203,Minneola
+204,Pinecrest
+205,Clewiston
+206,Sunrise
+207,Pomona Park
+208,Interlachen
+209,Palm Harbor
+210,Beverly Hills
+211,Beverly Hills
+212,Davenport
+213,Sebring
+214,Lake Placid
+215,Hobe Sound
+216,Stuart
+217,Ft. McCoy
+218,Ocklawaha
+219,Summerfield
+220,Crestview
+221,Palm Coast
+222,Windsor
+223,High Springs
+224,Keystone Heights
+225,Pace
+226,Callahan
+227,Lehigh Acres
+228,Winter Garden 
+229,"Starke, FL"
+230,"Starke, FL"
+231,Starke
+232,Spring Hill
+233,Lady Lake
+234,Port Charlotte
+235,Lake City
+236,Cross City
+237,Old Town
+238,Indian Shores
+239,Deland
+240,Mondex
+241,Bonita Springs
+242,Warrington
+243,Hastings
+244,Arcadia
+245,Arcadia
+247,Navarre
+248,New York City
+249,Ponte Vedra
+250,Islamorada
+252,Pittsburgh
+253,Weeki Wachee
+254,Maryland
+255,Yulee
+257,Fountain
+258,Marathon
+259,Shreveport
+260,"Mocksville, North Carolina"
+261,Crawfordville
+262,Wakulla
+263,Freeport
+264,Walton Beach
+265,Apopka
+266,Zellwood
+267,Orange Park
+268,Middleburg
+269,Riverview
+270,Brandon
+271,Valrico
+272,Land O' Lakes
+273,"Jamaica, NY"
+274,San Antonio
+275,Parrish
+276,Seminole
+277,Kenneth City
+278,Lutz
+279,Odessa
+280,Cuba
+281,Milton
+282,Ruskin
+178,Fort Myers
+256,St. Petersburg
+179,Riviera Beach
+251,"Rochester, NH "
+283,"Powell, Ohio"
+284,Lake Nona
+285,Brooklyn
+286,"Chicago, IL"
+287,Crescent City
+288,San Carlos Park
+289,"Gautier, MS"
+290,"Salt Lake City, UT"
+291,Middleburg
+198,Fort Lauderdale
+43,Fort Myers Beach
+292,"North Attleboro, Mass."
+293,North Fort Myers
+294,North Fort Myers
+295,"Los Angeles, Calif."
+296,Palm Beach Shores
+297,"Ridgeville, SC"
+298,"Hartford, CT"
+299,Vernon
+300,Marianna
+301,"Auburn, Ala."
+302,"Jamaica, NY"
+303,"Birmingham, Ala."
+304,Holly Hill
+305,Lauderhill
+306,El Salvador
+307,Palm Springs North
+308,Palm Springs
+309,Pampano Beach
+310,Seffner
+311,Lake Como
+200,Fort Walton Beach
+312,Hudson
+313,"Wood Lake, MN"
+314,Alabama
+315,Viera
+316,Gretna
+317,Ecuador
+318,Southwest Ranches
+319,Miami Lakes
+320,Atlanta
+321,Honduras
+322,Massachusetts
+323,Aria Court
+324,"Little Rock, Ark."
+325,Holt
+326,Illinois
+327,"Memphis, TN"
+328,Micco
+329,Holiday
+330,Holiday
+331,Youngstown
+332,Virginia
+333,Cross Creek
+334,Fort Bragg
+335,Fort Bragg
+336,Utica
+337,Clair-Mel
+338,Mango
+339,San Pablo
+340,New York
+341,"Granite City, IL"
+342,Bunnell
+343,"Tuscaloosa, AL"
+344,"Bastrop, LA"
+345,"Worcester, MA"
+346,Massachusetts
+347,"North Attleboro, MA"
+348,Puerto Rico
+349,New York
+350,Puerto Rico
+351,Geneva
+352,Bithlo
+353,New York state
+354,"Kenmore, N.Y."
+355,Sun City Center
+356,San Mateo
+357,"Kingston, Jamaica"
+358,Homosassa
+359,Homosassa
+360,Texas
+361,"Dayton, OH"
+362,Inverness
+363,Inverness
+364,North Carolina
+365,"Quincy, Mass."
+366,"Valdosta, GA"
+367,Georgia
+368,"Havana, Cuba"
+369,Loxahatchee Groves
+370, Loxahatchee Groves
+371,Haiti
+372,Mexico
+373,"Perth Amboy, NJ"
+374,Miami Springs
+375,Mary Ester
+376,"Port-of-Spain, Trinidad"
+377,Chipley
+378,Perry
+379,"Needham, MA"
+380,Mangonia Park
+381,"Saigon, Vietnam"
+382,Loxahatchee
+383,Belle Glade
+384,Ghana
+385,Parker
+386,Parker
+387,Floral City
+388,Floral City
+389,Hernando
+390,Cottage Hill
+391,Masaryktown
+392,Masaryktown
+393,Bonifay
+394,Cottondale
+395,Hialeah Gardens
+396,"Powell, Ohio"
+397,Hawaii
+398,Ponte Vedra Beach
+399,"Ocean Springs, MS"
+400,DeLeon Springs
+401,Laurel Hill
+402,Englewood
+403,"Gonzalez, LA"
+404,"Decatur, GA"
+405,Bell
+406,Citrus Springs
+407,Belleview
+408,Doral
+409,Salt Springs
+410,Dominican Republic
+411,Tennessee
+412,Immokalee
+413,Greenwood
+414,Greenwood
+415,Estero
+416,"Biloxi, Miss."

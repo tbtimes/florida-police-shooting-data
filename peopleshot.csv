@@ -1,0 +1,826 @@
+id,first_name,last_name,middle_name,name_suffix,gender,birth_date,race,condition,weapon_choices,case_id
+195,Alexander,Epstein,Blaine,,M,1990-09-10,Wh,killed,Firearm,210
+563,Andrew,Scott,Lee,,M,1986-01-23,Wh,killed,Firearm,652
+1047,Dion,Maycock,Akeem,,M,1990-10-18,Blk,injured,Unarmed,1092
+725,Eric,Dunphy,,,M,1958-09-30,Wh,killed,Blade/stabbing implement,813
+500,Thomas,Noettl,Allen,,M,1981-01-05,Wh,injured,Blade/stabbing implement,584
+629,Anthony,Levy,Brad,,M,1979-02-20,Blk,killed,Blade/stabbing implement,718
+544,Rasheik,Calhoun,Taburri,,M,1980-05-18,Blk,killed,Firearm,631
+36,Allen,Piano,,,M,1967-05-19,Wh,suicide,Firearm,57
+595,Stewart,Gilder,Blaine,,M,1955-01-28,Wh,killed,BB/Pellet Gun,683
+608,Brandon,Johnson,D.,,M,1990-07-02,Blk,injured,Vehicle,696
+81,Lucas,Kraus,N,,M,1987-02-14,Wh,injured,Other,102
+653,Henry,Patterson,,,M,1956-08-10,Hi,killed,Firearm,713
+713,Craig,Ruise,,,M,1994-12-04,Blk,killed,Toy weapon,806
+822,Kenneth,Kirwan,George Benard,Jr.,M,1992-11-05,Blk,injured,Firearm,891
+816,Alens,Charles,,,M,1987-02-10,Blk,injured,Unarmed,885
+702,Devon,Mitchell,Lavell,,M,1983-05-07,Blk,injured,Firearm,795
+641,Richard,Blount,,,M,1952-11-06,Blk,killed,Blade/stabbing implement,739
+745,Jacob,Nelson,Elijah,,M,1988-06-27,Blk,killed,Firearm,830
+826,Terry,Sellars,M.,Jr.,M,1983-12-30,Wh,killed,Blade/stabbing implement,894
+683,John,Austgen,Donald,Jr.,M,1965-08-26,Wh,killed,Vehicle,766
+478,Donnell,Miller,,,M,1987-02-17,Blk,killed,Vehicle,569
+694,Jeremy,Lewis,Terril Mario,,M,1981-02-04,Blk,killed,Firearm,787
+735,Robert,Johnson,Louis,,M,1965-09-16,Blk,killed,Vehicle,821
+40,Michael,Wolff,Landon,,M,1961-03-23,Wh,suicide,Firearm,61
+764,Michael,Hollis,Kevin,,M,1987-04-10,Blk,injured,Firearm,840
+26,John,Bean,Henry,,M,1990-08-02,Blk,injured,Firearm,47
+747,Kerley,Jean,,,M,1981-10-27,Blk,injured,Unarmed,705
+452,Herson,Hilaire,,,M,1982-05-29,Blk,killed,Vehicle,289
+654,Olivier,Babadjide,H.,,M,1982-05-24,Blk,injured,Unarmed,756
+533,Jerry,Brown,Dwight,,M,1973-01-01,Blk,killed,Unarmed,601
+676,Jeremy,Hutton,,,M,1993-01-18,Wh,injured,Vehicle,772
+935,Anesson,Joseph,,,M,1986-01-15,Blk,killed,Unarmed,991
+80,Paul,Sibley,Allen,,M,1944-05-08,Wh,injured,Firearm,101
+757,Jan,Squire,Patrick,,M,1971-09-13,Wh,injured,Vehicle,709
+881,Damaris,Jarmillo,,,F,1990-08-14,Hi,killed,Firearm,941
+564,Antonio,Brady,E.,,M,1989-01-19,Blk,injured,Firearm,653
+576,Aviana,Bailey,,,F,1989-02-10,Blk,injured,Unarmed,665
+782,William,Haines,Leroy,,M,1970-11-10,Wh,injured,BB/Pellet Gun,857
+519,Carlos,Valdes,Rene,,M,1987-11-24,Hi,injured,Firearm,606
+874,Victor,Arango,A.,,M,1985-11-15,Hi,killed,Firearm,934
+1059,Jeffrey,Paul,,,M,1980-12-09,Blk,injured,Firearm,1102
+491,Donald,Wendt,Robert,,M,1964-10-21,Wh,killed,Firearm,577
+876,Armando,Gonzalez Felipe,,,M,1972-06-13,Hi,killed,Firearm,936
+585,Seyoum,Samuels,,,M,1992-04-08,Blk,killed,Firearm,671
+712,Ronald,Evans,Alan,,M,1983-01-18,Blk,injured,Firearm,805
+558,Dannie,Young,,,M,1983-01-20,Blk,killed,Firearm,647
+773,Gary,Schiwart,,,M,1968-03-12,Wh,injured,Firearm,849
+65,Tavaris,Bentley,Jerome,,M,1989-12-04,Blk,injured,Vehicle,87
+29,Timothy,Mahoney,,,M,1955-02-25,Wh,killed,Firearm,50
+575,Marvin,Jones,C.,,M,1990-01-03,Blk,injured,Firearm,665
+858,Sara,Garcia,Alesia,,F,1986-03-10,Hi,injured,Unarmed,921
+1087,Erick,Zambrana,Josue,,M,1988-08-16,Hi,injured,Firearm,1130
+894,Corey,McNeal,Edwin,,M,1971-01-02,Blk,killed,Blade/stabbing implement,953
+98,Duane,Gregory,Alan,,M,1963-05-23,Wh,injured,BB/Pellet Gun,334
+617,Clayton,Gonsalves,Alphonso,,M,1962-04-28,Blk,injured,Firearm,715
+845,Linda,Davis,Sue,,F,1952-03-19,Blk,killed,Firearm,913
+901,Somourian,Wingo,J.,,M,1989-12-28,Blk,killed,Firearm,958
+714,Christopher,Kilgore,,,M,1977-07-06,Wh,killed,Firearm,807
+704,Louanne,Reeves,,,F,1956-05-30,Unk,injured,BB/Pellet Gun,797
+577,Sebastian,Gregory,,,M,1996-02-09,Hi,injured,Blunt/bludgeoning weapon,667
+643,Orestes,Fernandez,,Jr.,M,1969-07-02,Hi,killed,Vehicle,738
+685,Timothy,Oakes,Raymond,,M,1966-03-13,Wh,killed,Firearm,779
+559,Hugh,Smith,Barringhton,,M,1973-09-02,Blk,killed,Unarmed,648
+597,Manuel,Guifarro,,,M,1976-12-26,Hi,killed,BB/Pellet Gun,685
+631,Reynaldo,Hernandez,Cabrera,,M,1959-03-02,Hi,killed,Firearm,726
+502,Fredrick,Funchess,Robert,,M,1986-01-23,Blk,injured,Vehicle,588
+85,Mitch,Smith,Conan,,M,1978-02-02,Wh,injured,Firearm,106
+656,Michael,Membrides,Anthony,,M,1989-01-04,Wh,injured,Unarmed,753
+783,Thomas,McMullen,Clovis,,M,1979-06-10,Blk,killed,Firearm,858
+792,Cier,Green,Antwain,,M,1985-09-11,Blk,injured,Vehicle,866
+312,Eugene,Scurry,,,M,1982-12-06,Blk,injured,Firearm,325
+494,Max,Earney,Franklin,Jr.,M,1956-08-07,Wh,injured,Blade/stabbing implement,580
+565,Kenneth,Shewey,W.,,M,1958-12-10,Wh,killed,Firearm,654
+534,Benjamin,Dykeman,Mayolas,,M,1980-10-25,Wh,killed,Vehicle,603
+737,Juan,Bisono,Tirso,Jr.,M,1992-09-09,Hi,injured,Unarmed,823
+677,John,Haulotte,,,M,1988-05-01,Wh,injured,Unarmed,773
+512,Thomas,Steidley,Catherwood,,M,1957-11-07,Wh,killed,Firearm,598
+766,Jeremy,Walker,Donye,,M,1988-12-05,Blk,injured,Vehicle,842
+774,Jarmel,Cosby,Anthony,,M,1985-01-05,Blk,killed,Firearm,850
+794,Robert,Lewis,,III,M,1987-12-31,Blk,injured,Unarmed,866
+793,Samuel,Jones,,,M,1984-12-04,Blk,injured,Unarmed,866
+632,Joseph,Berrios,Ryan,,M,1994-09-09,Wh,injured,Unarmed,728
+877,Seth,Adams,Isaac,,M,1988-04-19,Wh,killed,Unarmed,937
+503,Lennox,Lowery, ,,M,1958-08-27,Blk,injured,Firearm,589
+598,James,Singletary,Ryan,,M,1985-12-17,Wh,injured,Unarmed,686
+566,Joe,White,,III,M,1965-04-16,Blk,killed,Blade/stabbing implement,655
+587,Joel,Jules,Jose,,M,1989-08-04,Blk,injured,Firearm,673
+686,Edward,Littleton,J.,,M,1989-11-08,Blk,injured,Firearm,780
+30,Sheri,Brower,P.,,F,1963-11-13,Wh,killed,Firearm,51
+521,Yolanda,Thomas,,,F,1978-11-24,Blk,killed,Vehicle,608
+715,Kiko,Battle,,,M,1985-05-04,Blk,killed,Firearm,808
+775,Herman,Pickens,Isiah,,M,1989-01-08,Blk,injured,Firearm,851
+904,Corsini,Valdes,,,M,1963-04-13,Hi,killed,Unclear from report,960
+361,David,Lewis,Christopher,,M,1977-05-27,Wh,killed,Firearm,403
+1048,Leonardo,Galan,Antonio,,M,1987-07-03,Wh,injured,Unarmed,1093
+882,Victor,Morales,Samuel,,M,1989-08-10,Hi,killed,Firearm,942
+207,John,Desanto,Vincent,,M,1970-07-18,Wh,injured,Blade/stabbing implement,222
+915,Frito,Valcin,,,M,1974-09-27,Blk,killed,Firearm,971
+728,Alexis,Diaz Candelaria,,,M,1979-03-29,Hi,killed,BB/Pellet Gun,816
+185,Daryl,Atkins,Lee,,M,1952-05-25,Wh,killed,Firearm,199
+647,Craig,Rodgers,Devon,,M,1972-08-22,Blk,killed,Blunt/bludgeoning weapon,745
+869,Vincent,Young,Loren,,M,1944-12-30,Wh,killed,Blade/stabbing implement,929
+579,Luis,Rivero,,,M,1967-11-15,Blk,injured,Unarmed,666
+578,Jesus,Vazquez,B.,,M,1961-10-16,Hi,killed,Vehicle,666
+784,Davinian,Williams,Darnell,,M,1975-08-30,Blk,killed,Unarmed,859
+819,Scott,Wetherhold,A.,,M,1964-06-17,Wh,injured,Firearm,888
+824,Luis,Medina,,,M,1956-01-01,Hi,injured,Unarmed,238
+1049,Reinaldo,Ruiz,Jose,,M,1988-12-21,Hi,injured,Unarmed,1093
+895,DeCarlos,Moore,,,M,1973-12-22,Blk,killed,Unarmed,954
+477,Stanley,Beasley,,Jr.,M,1977-10-09,Blk,injured,Firearm,567
+522,Xavier,Johnson,Tyrell,,M,1981-06-04,Blk,killed,Unarmed,608
+790,Brian,Lawson,Lamar,,M,1974-03-26,Blk,injured,Vehicle,865
+776,Rodney,Addison,Lorenzo,,M,1992-07-15,Blk,injured,Vehicle,852
+785,Juan,Lawrence,Montrice,,M,1971-11-13,Blk,killed,Firearm,860
+210,Anthony,Bartley,Jamal,,M,1992-06-02,Blk,killed,Unarmed,225
+317,Carlos,Crompton,Tyrone,,M,1973-07-29,Blk,killed,Firearm,331
+925,Ricardo,Barrera,de Jesus,,M,1960-05-25,Hi,killed,Firearm,981
+1056,Brent,Blevins,Lee,,M,1987-04-01,Wh,killed,Firearm,1100
+504,Kareem,McDonald,Jabar,,M,1990-12-14,Blk,injured,Unarmed,590
+696,Darrell,Phillips,Ernest,,M,1968-10-18,Wh,injured,Firearm,790
+750,Andrew,Brinkert,Jay,,M,1978-12-19,Wh,injured,Unarmed,832
+336,Jason,Westcott,Joseph,,M,1984-09-02,Wh,killed,Firearm,364
+828,Anthony,Brown,Lamar,,M,1975-09-13,Blk,killed,Firearm,896
+457,Jean,Rosado,Carlos,,M,1992-04-10,Hi,injured,Blade/stabbing implement,288
+658,Mary,Loflin,Ethel,,F,1950-12-14,Wh,killed,Firearm,758
+729,Jose,Simon-Dominguez,,,M,1990-06-18,Hi,killed,Unarmed,817
+687,Theo,Brenner,James,,M,1986-03-11,Blk,killed,Firearm,781
+679,Justin,Heffernan,L.,Jr.,M,1992-08-03,Wh,injured,Vehicle,774
+111,Ridge,White,David,,M,1988-04-19,Wh,injured,Unarmed,129
+402,Moses,Hall,,IV,M,1978-12-13,Blk,injured,Vehicle,476
+667,Edmond,Sutton,Allen,,M,1981-07-15,Wh,killed,Firearm,710
+739,Gregory,Horne,Allen,,M,1981-07-04,Wh,killed,BB/Pellet Gun,824
+767,Michael,Keys,Jones,Sr.,M,1955-06-30,Wh,killed,Firearm,843
+139,Richard,Yearwood,L.,,M,1976-06-27,Wh,injured,Blunt/bludgeoning weapon,156
+227,Joanna,Mojica,Ann,,F,1985-08-26,Hi,killed,Vehicle,241
+205,Jeffrey,Lee,L.,,M,1989-05-19,Blk,injured,Vehicle,221
+249,Larkin,Baggett,Bee,,M,1955-04-12,Wh,injured,Firearm,264
+777,Undisclosed,Undisclosed juvenile,,,M,1996-05-01,Blk,injured,Unarmed,852
+1081,Antonio,Cordoza,Mantana,,M,1988-07-18,Blk,injured,Firearm,1124
+156,Craig,Spitz,Stephen,,M,1968-02-19,Wh,killed,Firearm,170
+664,Duane,Armstrong,,,M,1978-01-09,Blk,injured,Unarmed,764
+768,Thomas,Johnson,Dewitt,,M,1986-05-15,Blk,killed,Firearm,844
+730,Gilbert,Velez,,,M,1952-04-17,Hi,injured,BB/Pellet Gun,678
+549,Iran,Delima,,,M,1969-11-27,Hi,injured,Firearm,638
+582,Junior,Carrales,Rudolfo,,M,1980-12-21,Hi,injured,Unarmed,657
+10,Jackie,Beasley,Byron,,M,1953-09-05,Wh,killed,Toy weapon,32
+688,Rachel,Etheridge,Lynette,,F,1983-08-29,Wh,killed,BB/Pellet Gun,782
+495,Robert,Kaminski,William,,M,1950-08-15,Wh,killed,Firearm,581
+751,Jose,Rodriguez-Gallo,Daniel,,M,1956-12-17,Hi,killed,Firearm,833
+1060,Thomas,Lanier,,,M,1947-07-03,Blk,injured,Firearm,1103
+740,Jerry,Cardin,Mark,,M,1963-05-08,Wh,injured,Firearm,825
+197,Robert,Parlette,Eugene,,M,1940-04-22,Wh,killed,Firearm,311
+483,Evelio,Rodriguez,David,,M,1990-06-26,Blk,injured,Taser,571
+707,Edward,Frey,Thomas,,M,1952-06-12,Wh,killed,Firearm,800
+697,Richard,Chabot,D.,,M,1977-06-23,Wh,killed,Blade/stabbing implement,791
+272,Arnold,Alfonso,,,M,1965-08-08,Hi,killed,Firearm,284
+335,Jason,Turk,Corry,,M,1976-05-02,Wh,injured,Firearm,362
+258,Mike,Borrell,,,M,1982-07-18,Blk,injured,Unarmed,270
+786,Eric,Sanchez,Omar,,M,1983-07-25,Hi,injured,Firearm,861
+840,Quinten,Smith,Jamal,,M,1991-12-16,Blk,killed,Firearm,908
+316,Zachary,Mathes,C.,,M,1987-03-25,Wh,killed,Firearm,540
+472,Michael,Morrison,Jon,,M,1956-01-13,Wh,injured,Firearm,561
+698,Herbert,Harris,Earl,Jr,M,1981-09-05,Blk,killed,Firearm,792
+496,Luke,Singletary,M.,III,M,1989-08-19,Blk,injured,Firearm,582
+456,Audley,Clarke,Sylvester,,M,1986-11-04,Blk,injured,Firearm,539
+610,Undisclosed,Undisclosed juvenile,,,M,1997-10-31,Unk,injured,Unclear from report,698
+550,Osmar,Sebasco,,,M,1971-08-24,Hi,killed,Firearm,639
+568,Jerome,Ferrier,,,M,1979-08-11,Blk,injured,Firearm,659
+87,Robert,McBride,Scott,,M,1967-09-11,Wh,killed,Unarmed,108
+769,Brandon,Peters,Daniel,,M,1984-10-10,Wh,killed,Blade/stabbing implement,845
+484,Matthew,Crockett,Ryan,,M,1990-04-07,Wh,injured,BB/Pellet Gun,572
+708,David,Barclay,James,,M,1972-08-28,Wh,suicide,Firearm,700
+718,Jessie,Cooper,N.,,M,1982-02-06,Blk,killed,Firearm,811
+905,Ruben,Pupo,,,M,1956-01-04,Hi,killed,Firearm,961
+861,Ernest,Vassell,,,M,1955-03-10,Blk,killed,Toy weapon,922
+752,Wesley,Moore,Sylvester,II,M,1962-06-21,Blk,killed,Blade/stabbing implement,834
+115,Justin,Tucker,Sean,,M,1977-12-30,Wh,killed,Unclear from report,135
+621,Marquis,Yates,Antwan,,M,1992-12-12,Blk,injured,Firearm,714
+870,John,Flanagan,Daniel,,M,1988-06-03,Wh,injured,Vehicle,930
+918,Timothy,West,Edward,,M,1966-11-18,Wh,killed,Firearm,974
+731,Antonio,Kendrick,Devel,,M,1988-07-29,Blk,killed,Firearm,818
+635,James,Palmer,Quenton,,M,1944-12-04,Wh,killed,BB/Pellet Gun,730
+601,Ian,Saum,Michael,,M,1989-05-27,Wh,injured,Blade/stabbing implement,689
+741,Jason,Greene,Lawton,,M,1979-08-23,Wh,killed,Firearm,826
+883,Jeremiah,Kelly,Lee,,M,1981-06-11,Wh,killed,Blade/stabbing implement,943
+829,Marlon,Woodstock,S.,,M,1976-03-03,Blk,killed,Blade/stabbing implement,897
+690,Verne,Williams,R.,,M,1973-12-09,Blk,injured,Firearm,783
+841,James,Monroe,Arlen,Jr.,M,1953-10-11,Wh,killed,Firearm,909
+753,Bruce,Kohn,A.,,M,1987-02-09,Blk,injured,Firearm,835
+611,Andreas,Mumm,J.,,M,1960-10-08,Wh,killed,Other,701
+989,Kofi,Adu-Brempong,,,M,1974-02-10,Blk,injured,Blunt/bludgeoning weapon,1042
+699,Adrian,Hagans,Derrick,,M,1984-05-08,Blk,injured,Firearm,793
+569,Christopher,Greer,,,M,1963-09-14,Wh,killed,Unarmed,660
+551,Daryle,Chestnut,,,M,1969-09-02,Blk,injured,Unarmed,640
+602,Daniel,Cook,Allen,,M,1974-12-07,Wh,injured,Firearm,690
+1057,Roxette,Ojeda,MarieAnne,,F,1990-12-11,Hi,injured,Unarmed,699
+669,Jovanny,Pena,,,M,1983-06-28,Blk,injured,Vehicle,763
+770,Devon,Spencer,Rashad,,M,1990-11-30,Blk,injured,Firearm,846
+906,Robert,Desir,Jostin,,M,1990-10-26,Blk,killed,Firearm,962
+118,Philip,Monier,Martin,,M,1963-07-15,Wh,injured,Firearm,145
+797,Katrina,Johnson,T,,F,1976-01-27,Blk,injured,Unarmed,213
+830,Kela,Souter,T.,,F,1965-03-01,Wh,killed,Firearm,898
+884,Daniel,Forrest,,,M,1992-08-10,Unk,injured,Unarmed,944
+896,Gibson,Belizaire,Junior,,M,1989-03-31,Blk,killed,Firearm,955
+779,John,Parker,Dawson,,M,1990-02-11,Blk,killed,Firearm,854
+498,Mauricio,Cruz,,,M,1974-03-05,Hi,killed,Firearm,583
+473,Sylvester,Brown,Keandra,,M,1995-07-22,Blk,injured,Unarmed,563
+999,Amy,Young,E.,,F,1974-01-30,Wh,injured,Firearm,1052
+399,Nicholas,Smith,,,M,1992-03-31,Blk,injured,Vehicle,473
+791,Jacqueline,Rosenbloom,L.,,F,1964-06-10,Unk,injured,Unarmed,145
+1050,Jatavious,Cox,Lamar,,M,1987-10-03,Blk,injured,Vehicle,1094
+695,Nicholous,Weeks,Vertex,,M,1991-01-18,Blk,killed,Unarmed,788
+681,Michael,Camberdella,J.,,M,1994-01-18,Wh,killed,Blunt/bludgeoning weapon,776
+802,Rodney,Burton,Lamar,Jr.,M,1993-01-12,Blk,injured,Firearm,871
+623,Seth,Shastid,Thomas,,M,1984-02-21,Wh,injured,Firearm,725
+692,McCrory,Brandon,Paul,,M,1982-10-13,Wh,injured,Blade/stabbing implement,785
+700,Manuel,Morales,Salvador,Jr.,M,1965-01-23,Hi,killed,BB/Pellet Gun,711
+410,Larry,Nortonsen,John ,,M,1960-01-17,Wh,killed,Unarmed,487
+540,Justin,Tellis,Wade,,M,1984-03-09,Blk,injured,Vehicle,629
+58,Marquis,Spencer,James,,M,1991-11-06,Blk,killed,Vehicle,77
+499,Jose,Almonte,F.,,M,1962-05-11,Hi,killed,Unarmed,585
+1032,Thomas,McCoy,Ford,,M,1966-09-01,Wh,injured,Firearm,1079
+771,Larry,Mixson,Anthony,,M,1948-11-16,Blk,injured,Firearm,847
+570,Richard,Longstreet,D.,,M,1976-12-29,Blk,killed,Firearm,662
+788,Neil,Southerland,,,M,1979-05-25,Wh,killed,Vehicle,863
+91,Timothy,Cole,Lyle,,M,1969-03-28,Wh,injured,Firearm,112
+662,Luther,Hudson,King,,M,1970-04-25,Blk,killed,Firearm,761
+651,Allen,Gauntlett,Gilbert,,M,1958-09-24,Blk,injured,Unarmed,752
+552,Eduardo,Prieto,Eddy,,M,1980-04-08,Hi,killed,Blade/stabbing implement,637
+733,Christopher,Reynoso,,,M,1977-11-24,Wh,killed,Firearm,819
+649,Michael,Davis,Lamont,,M,1977-03-06,Blk,killed,Unclear from report,746
+39,Dominic,Giacobbe,,,M,1982-09-16,Wh,killed,Blade/stabbing implement,60
+331,Edward,Thomas,Bernard,,M,1986-10-03,Blk,injured,Unarmed,355
+670,David,Calderin,,,M,1986-09-01,Wh,injured,Blade/stabbing implement,751
+612,Eduardo,Barnes,,,M,1992-11-07,Blk,injured,Firearm,702
+357,John,Johnson,Alfred,,M,1960-06-28,Blk,killed,Firearm,397
+710,Dominic,Davis,Levon,,M,1979-10-26,Blk,killed,Unclear from report,802
+603,Jason,Chessher,Michael,,M,1982-07-27,Wh,injured,Vehicle,691
+754,Marcos,Bonia,,,M,1974-04-06,Hi,injured,Firearm,836
+762,Frank,Nunez,,,M,1973-07-24,Hi,injured,Unclear from report,110
+761,Maria,Godinez,Fernandez,,F,1992-01-18,Hi,killed,Unarmed,110
+99,Jimmie,Matthews,Lee,,M,1981-04-29,Blk,killed,Unarmed,117
+1068,Vincent,Stroud,Ismael,,M,1990-07-31,Blk,injured,Firearm,1111
+711,Reginald,Henley,Rishawn,,M,1983-01-12,Blk,injured,Unarmed,804
+561,Quintin,Davis,Alexander,,M,1992-08-20,Blk,injured,Unarmed,650
+553,Jimmy,Barker,Eugene,,M,1953-11-25,Wh,killed,Firearm,641
+693,Michael,Felder,Devaughn,,M,1984-04-07,Blk,killed,Firearm,786
+593,Ezra,Strickland,Aaron,,M,1979-07-29,Blk,injured,Unarmed,681
+763,David,Scott,Andre,,M,1986-06-17,Blk,killed,Unarmed,839
+613,Eric,Bricker,Keith,,M,1967-07-07,Wh,killed,BB/Pellet Gun,703
+682,Carl,Ward,Ian,,M,1976-12-03,Blk,injured,Vehicle,777
+842,Daniel,Torres,M.,,M,1963-04-23,Hi,killed,Blade/stabbing implement,910
+638,Jamal,Singletary,Travis,,M,1986-04-07,Blk,killed,Firearm,736
+772,Homer,Warren,Ken,,M,1992-07-13,Blk,killed,Firearm,848
+755,Vincent,Cecil,Andrew,,M,1979-10-31,Wh,killed,Blade/stabbing implement,708
+789,Trumaine,Corbitt,Antearrio,,M,1982-10-24,Blk,injured,Firearm,864
+801,Kenneth,Ayton,Leslie,Jr.,M,1982-08-11,Blk,killed,Vehicle,870
+537,Craig,Vilsack,Douglas,,M,1958-05-13,Wh,killed,Firearm,625
+155,Gregory,Johns,James,,M,1969-09-06,Blk,killed,Blade/stabbing implement,169
+803,Jeff,Thomas,Lane,,M,1964-05-04,Wh,injured,Firearm,872
+781,Lesly,Cowan,M.,,M,1956-12-10,Wh,killed,Firearm,856
+810,Carl,Dykes,Zachary,Jr.,M,1954-03-10,Wh,injured,Firearm,879
+722,Joann,Cooper,,,F,1971-04-06,Blk,injured,Unarmed,812
+721,Jeremiah,Mathis,,,M,1978-12-08,Blk,killed,Firearm,812
+723,Daniel,Crichton,,,M,2008-03-25,Blk,injured,Unarmed,812
+818,Earl,Brown,David,,M,1938-12-04,Blk,killed,Firearm,887
+510,Matthew,Cormier,Paul,,M,1968-12-20,Wh,killed,Firearm,596
+291,Georges,Bastiany,,,M,1980-07-28,Blk,killed,Unclear from report,306
+583,Rudy,Taylor,Garland,,M,1960-09-22,Wh,killed,Firearm,669
+833,Curtis,Holley,Wade,,M,1961-08-22,Wh,killed,Firearm,901
+554,Travis,Dixon,F,,M,1980-01-04,Blk,injured,Unarmed,644
+479,Johnny,Simms,,,M,1987-07-25,Blk,killed,Firearm,570
+542,Cheyne,Pinkney,R,,M,1986-03-01,Wh,killed,Firearm,630
+415,Jonathan,Bestoso,,,M,1986-06-19,Wh,injured,Vehicle,496
+294,Joann,Beardsley,L.,,F,1963-01-17,Wh,killed,Firearm,312
+572,Albert,Davis,Demetrius,,M,1982-04-30,Blk,killed,Blade/stabbing implement,661
+97,Christopher,Berk,K.,,M,1986-06-09,Wh,injured,Firearm,120
+424,William,Case,,,M,1963-04-05,Wh,injured,Firearm,503
+421,Andrew,Mullen,W.,,M,1988-12-27,Unk,injured,Unarmed,502
+886,Daniel,Fuller,Ross,,M,1966-11-04,Wh,killed,Firearm,945
+77,Ta'Von,Grayson,O'Neal,,M,1991-08-14,Blk,injured,Vehicle,97
+909,Jermaine,McBean,Loxckley,,M,1979-08-05,Blk,killed,BB/Pellet Gun,965
+206,Abbott,Bennett,Scott,,M,1947-04-09,Wh,killed,Firearm,220
+95,Timothy,Baum,Allen,,M,1955-04-20,Wh,killed,Firearm,115
+302,Eddy,Barrios,,,M,1991-01-09,Hi,killed,Firearm,316
+382,Emily,Cox,Louise,,F,1993-05-15,Wh,injured,Vehicle,430
+218,Mark,Bill,Wayne,,M,1956-10-02,Wh,injured,Firearm,234
+257,Jarrett,Mundle,D.,,M,1990-03-16,Blk,injured,Unarmed,270
+926,Undisclosed,Undisclosed,,,M,,Unk,killed,Firearm,982
+34,Michael,Campbell,Andrew,,M,1978-04-12,Wh,killed,Unarmed,55
+1033,Ronald,Willard,Dennis,,M,1969-10-09,Wh,injured,Firearm,1080
+437,Donnie,Carroll,McCoy,,M,1985-10-02,Wh,injured,Vehicle,244
+430,Carl,Brewster,Erwin,,M,1981-01-29,Blk,killed,Vehicle,511
+79,Lynn,Burnett,Owen,,M,1953-10-10,Wh,injured,Firearm,100
+158,Edward,DiGrandi,Warren,,M,1937-08-28,Wh,killed,Firearm,172
+126,Thomas,Carberry,,,M,1963-12-06,Wh,killed,Firearm,146
+433,Adam,Brown,Lee,,M,1963-01-09,Wh,injured,Firearm,514
+429,Luke,Castello,Daniel,,M,1991-07-24,Wh,killed,Firearm,509
+184,Barion,Blake,A.,,M,1980-04-01,Blk,killed,Firearm,198
+105,Franklin,Bodden,Raymond,,M,1971-08-15,Wh,killed,Unarmed,122
+217,Brett,Hattenbrun,Douglas,,M,1951-03-03,Wh,injured,Other,233
+292,Bradley,Blanton,Denard,,M,1987-01-29,Blk,killed,Firearm,307
+383,JaVohn,Brown,Jamal,,M,1995-06-12,Blk,injured,Unarmed,431
+178,Jason,Brown,Todd,,M,1983-07-15,Wh,killed,Unarmed,192
+221,Eric,Bradwell,Terrell,,M,1981-12-22,Blk,killed,Firearm,236
+318,Steven,Caponi,Wayne,,M,1964-08-10,Wh,injured,Unarmed,336
+394,Eric,Chenowith,Gladwell,,M,1968-09-08,Wh,injured,Firearm,465
+138,Robert,Capkovic,,,M,1948-07-15,Wh,killed,Firearm,154
+887,Michael,Webb,J.,,M,1956-06-16,Wh,killed,Firearm,946
+76,Larry,Bowling,Duane,,M,1945-07-02,Wh,killed,Firearm,98
+1035,Diana,Donahue,,,F,1991-02-01,Unk,injured,Unarmed,1081
+281,Arthur,Coleman,Lee,Jr.,M,1975-04-21,Blk,killed,Vehicle,295
+242,William,Dabbs,,,M,1957-02-23,Wh,injured,Firearm,257
+202,Joseph,Cleary,,,M,1989-08-25,Wh,killed,Firearm,217
+283,Curtis,Davis,Jacob,,M,1986-02-24,Wh,injured,Blade/stabbing implement,297
+67,Robert,Cortes,Allen,,M,1969-06-06,Hi,killed,Firearm,89
+543,Carl,Brennan,Torrance,,M,1988-02-25,Blk,killed,Firearm,632
+3,Alex,Cohen,Allen,,M,1987-10-26,Hi,injured,Blade/stabbing implement,22
+1100,Tamara,Lockley,Selina,,F,1965-03-16,Blk,injured,Vehicle,1137
+71,Roger,Damms,,,M,1958-09-03,Wh,injured,Firearm,92
+396,Vales,Delices,,Jr.,M,1985-06-27,Blk,killed,Vehicle,469
+253,Jakob,Cunnien,Andru,,M,1991-03-15,Wh,injured,Vehicle,272
+38,Nicholas,Di Novo,,,M,1981-06-11,Wh,injured,BB/Pellet Gun,59
+212,Deacon,Clark,,,M,1983-02-01,Wh,killed,Firearm,228
+237,Michael,Cravey,Matthew,,M,1985-08-14,Wh,killed,Blade/stabbing implement,250
+88,Recardio,Clark,Shormon,,M,1979-10-25,Blk,killed,Firearm,109
+193,Lealann,Cooley,Russell Melder,,M,1967-04-11,Wh,killed,Firearm,208
+28,Diana,Conner,Lucille Crockett,,F,1952-10-20,Wh,killed,Firearm,48
+391,Rogelio,Cortes,,,M,1972-02-19,Hi,injured,Unarmed,455
+159,Justin,Coon,Duane,,M,1984-10-27,Wh,injured,Unarmed,173
+57,George,Dean,W.,,M,1947-02-21,Wh,injured,Firearm,79
+356,Isah,Chisom,,,M,1990-01-13,Blk,injured,Firearm,396
+290,Sean,Creamer,,,M,1981-04-26,Wh,injured,Vehicle,305
+31,Alfred,Dobson,,,M,1977-01-01,Blk,killed,Unarmed,52
+362,Johann,Felber,H.,,M,1965-09-16,Wh,killed,Firearm,404
+344,Quade,Everett,L.,,M,1996-01-14,Blk,injured,Vehicle,382
+167,Thomas,Fillingim,Eugene,Sr.,M,1960-12-20,Wh,killed,Blade/stabbing implement,179
+78,Devon,Evans,,,M,1989-08-24,Blk,injured,Vehicle,99
+313,Timothy,Green,,,M,1977-11-03,Blk,injured,Firearm,326
+204,David,DiRoma,Rocco,,M,1944-05-22,Wh,killed,Firearm,219
+198,Jermaine,Green,Lanier,,M,1981-08-01,Blk,injured,Blade/stabbing implement,213
+238,Bradley,Gaus,James,,M,1985-02-18,Wh,injured,Blade/stabbing implement,251
+7,Adam,Donohue,,,M,1993-03-08,Wh,killed,Unarmed,28
+208,Michael,Gaides,,,M,1956-08-25,Wh,killed,Firearm,223
+94,Ronnerry,Fell,Tyrone,,M,1984-02-18,Blk,injured,Unarmed,132
+182,Justin,Ferguson,,,M,1978-02-05,Wh,injured,Firearm,196
+323,Umberto,Ferrara,,,M,1937-05-14,Wh,killed,Firearm,345
+200,Robens,Estime,,,M,1994-01-22,Blk,injured,Firearm,215
+82,Troy,Gordon,Evan,,M,1980-12-15,Blk,killed,Blade/stabbing implement,103
+404,Gabriel,Field,T.,,M,1988-08-08,Wh,killed,Firearm,136
+60,James,Estes,Lester,,M,1962-08-26,Wh,killed,Unarmed,83
+241,Brandon,French,Elliot,,M,1985-03-15,Wh,injured,Vehicle,254
+555,Kaldrick,Donald,,,M,1990-08-02,Blk,killed,Unarmed,642
+347,Dustin,Garland,Ray,,M,1982-05-10,Wh,injured,Firearm,389
+120,Michael,Gonzalez,Anthony,,M,1981-07-10,Hi,injured,BB/Pellet Gun,140
+1034,Elio,Lleo,Enrique,,M,1988-09-09,Hi,injured,Firearm,1081
+191,Arthur,Dixon,Allen,Jr.,M,1969-08-20,Wh,killed,Blade/stabbing implement,205
+201,Harry,Gibbs,Guest,,M,1948-05-18,Wh,killed,Firearm,216
+74,Floyd,Hodge,Gene,Jr.,M,1982-08-30,Wh,killed,Firearm,95
+324,Carlos,Laboy,Roberto,,M,1984-12-19,Hi,killed,Unarmed,346
+330,John,Jones,Alexander,,M,1989-12-21,Blk,injured,Blunt/bludgeoning weapon,353
+93,Dustin,Heathman,Harold,,M,1979-01-16,Wh,injured,Firearm,133
+889,Brandon,Foster,T.,,M,1988-01-11,Blk,killed,Firearm,948
+1020,Adrein,Herrera,,,M,1979-06-07,Hi,killed,Firearm,1071
+246,David,Harmon,Deandre,,M,1983-08-26,Blk,injured,BB/Pellet Gun,260
+140,William,Hill,Paul,,M,1965-09-12,Wh,suicide,Firearm,157
+338,Jason,Kerr,Michael,,M,1982-04-14,Wh,killed,Firearm,365
+50,Michael,Jenkins,Tavorris,,M,1980-12-02,Blk,killed,Vehicle,71
+154,James,Kirkland,M.,,M,1960-07-31,Blk,killed,Firearm,168
+898,Kareem,Williams,A.,,M,1980-05-04,Blk,injured,Unarmed,956
+264,Richard,Haston,Bernard ,,M,1973-09-26,Blk,killed,Vehicle,276
+72,Stephanie,Hicks,Ann ,,F,1978-09-16,Wh,injured,Vehicle,93
+222,Tra'Don,Johnson,Donell,,M,1984-12-27,Blk,injured,Vehicle,237
+530,Joshua,Gerard,,,M,1980-05-20,Wh,injured,Firearm,621
+128,George,Lafferty,W.,,M,1946-12-16,Wh,injured,Firearm,150
+326,Greg,Hutchenson,Allen,,M,1966-05-12,Wh,injured,Firearm,348
+225,Julius,Larrance,Richard,,M,1992-11-12,Blk,killed,Firearm,239
+33,Julie,Lane,N.,,F,1978-04-10,Wh,injured,Firearm,54
+337,Christopher,Labrado,Anthony,,M,1976-11-07,Hi,injured,Firearm,366
+277,Hedson,Hilaire,,,M,1978-01-20,Blk,killed,Unarmed,289
+223,Jonas,Joseph,,,M,1989-07-30,Blk,injured,Blade/stabbing implement,238
+282,Robert,McCracken,,,M,1965-10-04,Wh,injured,Firearm,296
+169,Rodney,Lasseigne,,,M,1956-07-25,Wh,killed,Firearm,182
+163,James,McGlothlin,Wyman,,M,1973-08-24,Wh,killed,Toy weapon,176
+149,Kenneth ,Morrow,D.,,M,1960-08-14,Wh,killed,Firearm,165
+419,Michael,Morgan,Everett,,M,1965-11-01,Wh,killed,Firearm,499
+423,Terrance,Morgan,L.,,M,1988-11-22,Unk,injured,Unarmed,502
+166,Roy,Middleton,Howard,,M,1953-03-18,Blk,injured,Unarmed,178
+124,Rigoberto,Lopez-Ortiz,,,M,1992-08-07,Hi,injured,Unarmed,143
+27,Clifford,McLean,Sheldon,,M,1985-12-06,Blk,killed,Unarmed,49
+501,Lew,Tyree,G.,III,M,1972-12-09,Blk,killed,Blade/stabbing implement,587
+812,Johnny,Veloz,Morales,,M,1982-08-14,Hi,killed,Unarmed,881
+374,Tyeisha,Long,Uneek,,F,1997-06-27,Blk,injured,Unarmed,421
+387,Craig,Leblanc,Lawrence,Jr.,M,1986-11-18,Blk,injured,Firearm,447
+62,Brian,Leggitt,Christopher,,M,1982-05-11,Wh,killed,Vehicle,85
+229,Patricia,Mapes,I.,,F,1940-07-30,Wh,injured,Firearm,246
+434,Adalberto,Martinez,,,M,1981-01-12,Hi,killed,Firearm,515
+22,John,McCully,,,M,1986-02-15,Wh,killed,Blade/stabbing implement,44
+135,Patricia,Marianetti,,,F,1951-07-19,Wh,injured,Unarmed,226
+211,Clifton,McKinney,D.,Sr.,M,1971-07-10,Blk,killed,Blade/stabbing implement,227
+92,Michael,Lee,Scott,,M,1989-05-10,Wh,killed,Firearm,113
+319,Yoel,Leon,,,M,1969-05-15,Hi,injured,Blade/stabbing implement,340
+420,Rodney,Mitchell,G.,,M,1989-03-21,Blk,killed,Unarmed,501
+180,Alexander,May,James,,M,1990-10-20,Wh,killed,Blade/stabbing implement,194
+261,Brenda,McKay,L.,,F,1965-09-08,Blk,injured,Unarmed,273
+320,Pedro,Quiles,Enrique,Jr.,M,1984-04-05,Hi,killed,Unarmed,341
+90,Joseph,Paige,,,M,1979-10-04,Blk,killed,BB/Pellet Gun,111
+466,Karvas,Gamble,Jabbar,Jr.,M,1993-08-09,Blk,killed,Unclear from report,420
+680,Justin,McMillian,Ryan,,M,1984-04-06,Blk,injured,Firearm,775
+516,Keith,Ritchie,Matthew,,M,1971-06-18,Wh,killed,Firearm,602
+37,Carlos,Oquendo,Domingo,,M,1989-06-09,Hi,killed,Vehicle,58
+189,Brandon,Rich,Cheques,,M,1995-12-29,Blk,injured,Unarmed,204
+168,Kenneth,Roan,Lavon,,M,1962-08-14,Blk,injured,Unarmed,181
+395,Palin,Perez Jackson,,,M,1973-10-18,Hi,killed,Firearm,467
+260,Guy,Petrey,,,M,1961-11-29,Wh,killed,BB/Pellet Gun,268
+280,Corey,Nesbitt,Terell,,M,1994-03-26,Blk,killed,Blade/stabbing implement,293
+170,Lawrence,O'Bryan,Deanne,,M,1957-04-13,Wh,injured,Firearm,183
+806,Torey,Breedlove,Adrell,,M,1982-08-30,Blk,killed,Unarmed,875
+813,Gibran,Flores-Remigio,,,M,1985-05-05,Hi,killed,Blade/stabbing implement,882
+322,William,Page,James (Jimmy),Jr.,M,1972-04-26,Wh,killed,Firearm,344
+137,Ghulam,Mutjaba,Yahya,,M,1950-02-07,Wh,killed,Blade/stabbing implement,155
+413,James,Noble,,,M,1940-11-29,Wh,killed,Firearm,491
+63,Joe,Prevatt,Alan,,M,1965-08-11,Wh,suicide,Firearm,84
+194,Robert,Roll,Hayes,,M,1954-08-30,Wh,killed,Unarmed,209
+428,Jacob,Munt,,,M,1985-10-06,Wh,injured,Vehicle,510
+443,Ryan,Rader,,,M,1974-07-24,Wh,killed,Firearm,526
+196,Anthony,Newkirk,Antonio,,M,1980-11-04,Blk,injured,Vehicle,211
+89,Kody,Roach,Christian,,M,1991-04-12,Wh,injured,Firearm,110
+411,Michael,Pagan,Henry,,M,1969-09-06,Hi,killed,Blade/stabbing implement,489
+1104,Zeyken,Suarez Triana,,,M,1979-07-25,Hi,injured,Unarmed,1141
+216,Billy,Retherford,Ray,Jr.,M,1970-02-02,Wh,killed,Firearm,231
+49,Craig,Rust,,,M,1957-01-16,Wh,killed,Firearm,70
+520,Bobby,Driggers,Earl,,M,1962-12-24,Wh,killed,Firearm,607
+73,Michael,Smith,Lyell,,M,1985-12-30,Wh,killed,Vehicle,94
+55,Antonio,Stephens,Lee,,M,1984-05-07,Blk,injured,Firearm,75
+890,Manuel,Bueno,,,M,1976-09-13,Hi,killed,Blade/stabbing implement,949
+131,Harold,Roudebush,F.,Jr.,M,1959-11-01,Wh,killed,Firearm,147
+161,Paul,Thayer,Gordon,,M,1963-10-09,Wh,killed,Firearm,174
+203,Rodney,Stevens,,,M,1949-11-11,Wh,killed,Firearm,218
+897,Travis,McNeil,M.,,M,1982-08-06,Blk,killed,Unarmed,956
+114,Joshua,Salvato,Giovanni,,M,1990-09-16,Wh,killed,Unarmed,134
+333,Inga,Swanson,Marie,,F,1970-01-01,Wh,killed,Firearm,360
+392,Acrifa,Soman,Kamaal,,M,1988-11-24,Blk,killed,Firearm,463
+187,Edward,Sliger,Allen,,M,1956-08-28,Wh,killed,Vehicle,201
+231,Kenneth,Sprankle,Robert,,M,1986-01-27,Wh,killed,Blade/stabbing implement,245
+514,Brenda,Van Zwieten,P.,,M,1972-12-13,Wh,killed,Firearm,599
+614,Shantwaun,Turner,,,M,1989-04-06,Blk,injured,Firearm,704
+556,Gregory,Ehlers,A.,Jr.,M,1977-02-26,Wh,killed,Unarmed,645
+640,Vernum,Blunk,Harold,Jr.,M,1966-12-24,Wh,killed,Firearm,734
+293,Charles,Ross,Miller,III,M,1958-05-18,Wh,killed,Blade/stabbing implement,310
+628,George,Garrett,L.,,M,1946-06-22,Wh,killed,Firearm,729
+43,Thomas,Tavernier,,,M,1929-05-09,Wh,injured,Firearm,65
+186,Andrea,Sheldon,,,F,1966-02-26,Wh,killed,Firearm,202
+414,Arunya,Rouch,,,F,1968-05-10,As,injured,Firearm,492
+307,Ted,Tilley,A.,,M,1975-11-21,Wh,killed,Firearm,317
+21,Undisclosed,Undisclosed,,,M,,Unk,injured,Vehicle,42
+425,Tyler,Spann,A,,M,1989-06-05,Wh,killed,Unarmed,504
+24,Cedrick,Telasco,,,M,1989-06-08,Blk,killed,Blade/stabbing implement,45
+125,Ronnie,Williams,Keith,Jr.,M,1988-11-19,Blk,injured,Vehicle,144
+418,Jerry,Camp,Wesley,,M,1966-04-23,Wh,killed,Firearm,498
+932,Michael,Synder,Robert,,M,1956-04-28,Wh,killed,BB/Pellet Gun,988
+899,Hope,Cieszynski,L.,,F,1974-05-04,Wh,injured,Unarmed,871
+247,David,Westerman,Roy,,M,1979-11-03,Wh,injured,Vehicle,261
+286,Jeffery,Weekley,Stuart,,M,1969-07-26,Wh,killed,Unarmed,300
+381,Omarri,Williams,,,M,1995-04-02,Blk,killed,Firearm,428
+346,Joshua,Young,Lee,,M,1987-05-20,Wh,injured,Vehicle,388
+75,Almeb,Gebreyohannes,,,M,1987-01-22,Wh,injured,Blunt/bludgeoning weapon,96
+442,Peter,Paige,Andrew,,M,1981-06-02,Wh,injured,BB/Pellet Gun,525
+240,Richard,Williams,Earl L.,,M,1983-03-28,Blk,injured,Unarmed,253
+259,Tyson,Richardson,Lee ,,M,1988-10-29,Wh,killed,Firearm,270
+276,Calvin,Wallace,,,M,1960-05-20,Blk,killed,Firearm,287
+284,James,Tucker,Darrell,,M,1961-07-27,Wh,injured,Firearm,298
+46,Rocky,Watson,Allen,,M,1949-12-08,Wh,killed,Blade/stabbing implement,67
+363,Mark,Walker,Delane,,M,1968-10-21,Wh,killed,Firearm,405
+263,Darrick,Washington,,,M,1994-01-20,Blk,injured,Vehicle,271
+489,Jeramey,Sweeny,Franklin,,M,1981-10-29,Wh,killed,Firearm,575
+1106,Anthony,Arias,Robert,,M,1983-10-14,Hi,killed,Unarmed,1143
+328,Javon,Neal,,,M,1996-04-25,Blk,killed,Firearm,350
+61,Cordaryl,Wilson,Leon Jermane,,M,1987-02-23,Blk,injured,Unarmed,420
+234,Carlos,Charles,Joseph,,M,1983-12-03,Blk,killed,Unarmed,247
+308,Nicholas,Cannady,Ryan,,M,1985-06-26,Wh,injured,Firearm,318
+837,Trung,Do,Thanh,,M,1983-08-12,As,killed,Unarmed,905
+900,Lawrence,McCoy,Raymond,,M,1979-11-27,Blk,killed,Firearm,957
+385,William,Washington,Erick,,M,1954-06-27,Blk,injured,Firearm,439
+228,Gilberto,Rivera,Roman,,M,1955-02-09,Hi,killed,Firearm,242
+444,Mark,Daniels,Anthony,,M,1978-06-25,Wh,killed,Vehicle,529
+389,Marvin,Ellison,Habakkuk,Jr.,M,1983-03-05,Blk,injured,Firearm,453
+966,David,Bennett,Scott,,M,1970-01-26,Wh,killed,Unarmed,1020
+892,Joel,Johnson,Lee,,M,1994-05-09,Blk,killed,Firearm,951
+946,Mary,Gamble,Joyce,,F,1956-06-05,Blk,injured,Unarmed,1002
+355,Hydra,Lacy,,Jr.,M,1971-09-19,Blk,killed,Firearm,395
+1036,John,Witherell,Benjamin,,M,1974-05-26,Wh,injured,Firearm,1082
+941,Leon,Sahakian,A.,,M,1961-10-23,Wh,killed,Blade/stabbing implement,997
+226,Pamela,Kirk,Dale,,F,1960-12-15,Wh,killed,Firearm,240
+348,Shaquille,Sweat,Francois,,M,1994-03-11,Blk,injured,Vehicle,421
+309,Todd,Bradshaw,Allen,Jr.,M,1986-02-18,Blk,killed,Firearm,319
+390,Elmer,Banner,Edison,,M,1968-06-07,Wh,injured,Firearm,454
+289,Lamont,Burgess,Jerome,,M,1976-07-10,Blk,killed,Firearm,393
+102,Joseph,Powell,Blake,,M,1991-04-18,Wh,killed,Firearm,118
+933,Federico,Osorio,,,M,1993-10-18,Hi,killed,Blade/stabbing implement,989
+1107,Elvis,Abreu,,,M,1986-09-20,Hi,injured,Firearm,1144
+727,Robert,Nodine,Allan,,M,1948-02-28,Wh,injured,Firearm,815
+214,Corey,Simpson,,,M,1990-02-03,Blk,killed,Blade/stabbing implement,230
+805,Anthony,Letizia,J.,,M,1980-08-25,Wh,injured,Firearm,874
+808,Nicholas,Scott,Eugene,,M,1986-03-26,Blk,killed,Vehicle,877
+809,Bernard,King,,,M,1963-02-25,Blk,killed,Blade/stabbing implement,878
+329,Andre,Chowtie,C.,,M,1994-08-20,Wh,injured,Vehicle,352
+327,Lawrence,Anderson,Martin,,M,1960-09-19,Blk,injured,Blade/stabbing implement,349
+811,Bruce,Smith,Lee,,M,1988-12-12,Blk,injured,Vehicle,880
+408,Fernando,Lazaro,,,M,1982-07-09,Hi,injured,Vehicle,477
+453,Trevis,Sherwood,Ranaldo,,M,1988-11-02,Blk,injured,Vehicle,537
+450,Lawrence,Gudmestad,John ,,M,1963-11-30,Wh,injured,Firearm,500
+746,Calvin,Pryor,Dwight,,M,1986-07-13,Blk,injured,Firearm,830
+807,Phillipe,Louis,,,M,1983-01-15,Blk,killed,Firearm,876
+844,Joshua,Merritt,David,,M,1982-12-15,Wh,killed,Firearm,912
+505,Johnny,Wright,Robert,,M,1988-12-20,Blk,killed,BB/Pellet Gun,591
+854,Juan,Rodriguez,Luis,,M,1968-11-27,Hi,killed,Vehicle,919
+851,Antonio,Andrew,Lee,,M,1975-04-24,Blk,killed,Unclear from report,917
+70,Bruce,McDonald,Wade,,M,1980-04-14,Wh,injured,Firearm,91
+1051,Johnny,Outler,A.,Jr.,M,1977-04-25,Blk,injured,Vehicle,1095
+386,Marcus,Cull,Dangelo,,M,1985-09-01,Blk,injured,Vehicle,442
+838,Undisclosed,Undisclosed,,,M,,Unk,killed,Unclear from report,906
+448,Thomas,Skiba,John ,,M,1980-09-05,Wh,injured,Vehicle,533
+847,Tinoris,Williams,T.,,M,1982-11-06,Blk,killed,Unarmed,915
+879,Terrance,Abrams,Lamar,,M,1985-06-23,Blk,killed,Firearm,939
+439,Alan,Provencal,David,,M,1940-05-07,Wh,killed,Firearm,520
+584,Heriberto,Jimenez,,,M,1969-03-11,Hi,killed,Blade/stabbing implement,670
+726,Rodney,Newberry,Renard,,M,1969-09-22,Blk,injured,Firearm,814
+581,Christian,Morales,Estrada,,M,1984-06-13,Hi,killed,Vehicle,657
+823,Brian,Copeland,Andrew,,M,1987-07-21,Blk,injured,Vehicle,892
+116,Alfred,Sewell,E.,,M,1966-02-16,Blk,injured,Blunt/bludgeoning weapon,137
+121,Gregory,Hill,Vaughn,Jr.,M,1983-10-28,Blk,killed,Firearm,141
+132,Harold,Baggett,Anthony,,M,1960-12-14,Wh,injured,Vehicle,152
+652,Aaron,Lepak,Ronald,,M,1974-10-19,Wh,suicide,Firearm,750
+311,Walter,Whittaker,James,III,M,1985-02-07,Blk,injured,Vehicle,323
+314,Ladarius,Rainey,M.,,M,1991-01-03,Blk,injured,Vehicle,327
+523,Francis,Morrell,Howard,,M,1940-11-06,Wh,killed,Firearm,612
+580,Bruce,Wooley,Mannie,,M,1951-02-09,Wh,injured,Firearm,668
+615,Jason,Wilson,A.,,M,1981-11-21,Wh,killed,Firearm,721
+426,Harry,Bell,Lee,III,M,1980-04-15,Wh,injured,Firearm,505
+586,Michael,Santana,Ray,,M,1985-04-22,Hi,killed,Firearm,672
+701,Cedric,Bartee,Lamont,,M,1985-12-26,Blk,injured,Unarmed,794
+622,Marvin,Kitnurse,Michael,Jr.,M,1966-08-16,Blk,injured,Firearm,720
+817,Jeffrey,Lowry,,,M,1970-01-25,Wh,killed,Blade/stabbing implement,886
+831,Edward,Miller,Prescott,,M,1962-03-02,Wh,killed,Firearm,899
+129,Carlos,Torres-Ramos,Raul,,M,1973-09-11,Hi,killed,Firearm,151
+310,Derrick,Sheffield,Deshawn,,M,1992-09-17,Blk,injured,Vehicle,322
+45,Peter,Russo,Carl,,M,1958-12-22,Wh,killed,Toy weapon,66
+934,Earl,Clague,Edward,Jr.,M,1962-11-23,Wh,killed,Firearm,990
+893,Tarnorris,Gaye,Tyrell,,M,1991-04-25,Blk,killed,Firearm,952
+1108,Dwight,Patterson,C.,,M,1987-12-04,Wh,injured,Vehicle,1144
+497,Terrence,Williams,L.,,M,1989-04-01,Blk,injured,Vehicle,582
+591,Mildred,Pace,Christina,,F,1976-04-21,Wh,injured,Unarmed,680
+839,Eric,Forbes,Tyrone,,M,1986-01-21,Blk,killed,Firearm,907
+438,David,Strickland,Alan,,M,1961-08-08,Wh,injured,Unclear from report,519
+853,Rudy,Eugene,,,M,1981-02-04,Blk,killed,Unarmed,918
+863,Tommy,Jackson,Lee,,M,1974-12-10,Blk,killed,Firearm,924
+848,Matthew,Pollow,Troy,,M,1986-03-23,Wh,killed,Blade/stabbing implement,916
+866,Angella,Falconi,,,F,1988-12-10,Hi,killed,Blade/stabbing implement,926
+541,Brian,Naab,Keith,,M,1962-10-10,Wh,killed,Firearm,628
+546,Anthony,Santiago,Junior,,M,1993-01-08,Hi,injured,Unarmed,635
+518,Seraphin,Exantus,,,M,1993-07-04,Blk,injured,Vehicle,605
+1037,Peter,Bonfiglio,James,,M,1987-03-31,Wh,injured,BB/Pellet Gun,1083
+506,Justin,Plaza,Jonathan,,M,1988-06-01,Blk,killed,Firearm,592
+860,Crystal,Rivera,,,F,,Unk,injured,Unarmed,921
+859,Carlson,St. Louis,,,M,1986-11-14,Blk,injured,Unarmed,921
+873,Sergio,Azcuy,Javier,,M,1965-10-11,Hi,killed,Unarmed,933
+624,Julian,Carson,Alexander,,M,1978-05-21,Blk,injured,Vehicle,716
+526,Mathew,Tutt,Lewis,,M,1988-09-15,Wh,killed,Firearm,615
+855,Anthony,Ribeiro,Charles, ,M,1966-02-27,Hi,injured,Blunt/bludgeoning weapon,920
+856,Cedrick,Perkins,Rodrigus,,M,1981-06-02,Blk,injured,Unarmed,921
+23,Kerome,Paisley,Lendon,Jr.,M,1995-07-05,Blk,injured,Vehicle,43
+865,Jacoby,Hart,Darnell,,M,1990-01-31,Blk,injured,Firearm,925
+616,Nicholas,Squire,,,M,1990-03-25,Wh,injured,Blade/stabbing implement,717
+738,John,Kalisz,William,,M,1954-10-11,Wh,injured,Firearm,559
+594,Eric,Moore,Jacob,,M,1978-12-14,Wh,injured,Unarmed,682
+655,Ricardo,Noa,Miguel,,M,1991-12-23,Hi,injured,Unarmed,753
+1109,Christopher,Rodriguez,,,M,,Hi,injured,Firearm,1145
+644,Duane,Strong,Eric,Jr.,M,1995-10-06,Blk,killed,Vehicle,741
+1088,James,Plain,Edward,,M,1984-06-28,Blk,injured,Firearm,1131
+716,Timothy,Kochlany,Joseph,,M,1972-10-18,Wh,injured,BB/Pellet Gun,809
+1052,Angel,Soto,Augustine,Jr.,M,1971-09-05,Hi,injured,Vehicle,1096
+365,Demetrius,Patterson,Lavell,,M,1990-07-22,Blk,injured,Firearm,417
+350,Danardrick,Chance,Rashad,,M,1994-01-30,Blk,injured,Unarmed,392
+871,James,Fay,Stephen,,M,1958-08-15,Wh,killed,Firearm,931
+872,Jonathan,Wilcher,Lee,,M,1987-01-28,Blk,killed,Firearm,932
+1061,Frank,Pavano,Michael,,M,1965-09-13,Wh,injured,Blade/stabbing implement,1104
+1071,Alejandro,De Armas Reinoso,,,M,1975-01-09,Hi,killed,Unarmed,1115
+1012,Julio,Santiago,Angel,,M,1978-02-19,Hi,killed,Firearm,1063
+875,Gerardo,Delgado,,,M,1955-12-08,Hi,killed,Firearm,935
+867,Robert,Gary,Earl,Jr.,M,1982-01-08,Blk,killed,Firearm,927
+1069,Sergio,Castillo-Labra,,,M,1981-11-17,Hi,injured,Vehicle,1112
+1038,Timothy,Lowe,Jerome,,M,1984-04-15,Blk,injured,Firearm,1084
+671,Marco,Margolis,Robert,,M,1970-12-22,Wh,injured,Vehicle,768
+796,Ronmono,Carson,Emanuel,,M,1991-06-11,Blk,injured,Firearm,77
+684,Daniel,Rhodes,Lee ,,M,1963-05-09,Blk,killed,Blade/stabbing implement,778
+657,Joseph,Richer,Daniel,,M,1966-08-18,Wh,injured,Firearm,757
+599,Derrick,Grippin,Spencer,,M,1980-10-10,Wh,suicide,Firearm,687
+665,Mark,Chernin,Alan,,M,1970-05-14,Wh,killed,Firearm,771
+868,Pedro,Vargas,Alberto,,M,1970-10-03,Hi,killed,Firearm,928
+878,Timothy,Williams,,,M,1975-08-30,Blk,killed,Blade/stabbing implement,938
+709,Mark,Yoachum,Stephen,Jr.,M,1990-08-21,Wh,killed,Firearm,801
+778,Clifton,Day,Joel,,M,1958-03-06,Wh,killed,Firearm,853
+804,Ricky,Moriani,Cyrus,,M,1947-02-17,Wh,injured,Taser,873
+1039,Jo'Kavious,Wilson,Lee,,M,1984-08-16,Blk,injured,Vehicle,1085
+820,Howard,Bowe,W.,,M,1979-09-10,Blk,killed,Unarmed,889
+885,Henry,Kiner,Louis,III,M,1986-04-12,Blk,killed,Firearm,944
+800,Dorall,Marshall,Daniel,,M,1991-11-14,Blk,injured,Firearm,869
+1005,Ricardo,Aviles,,,M,1981-06-03,Hi,injured,Firearm,1058
+891,Lynn,Weatherspoon,,,M,1983-09-16,Blk,killed,Firearm,950
+744,Benjamin,Whitted,Thomas,,M,1984-03-17,Blk,injured,Unarmed,829
+821,Jerome,James,,,M,1974-05-08,Blk,injured,Blade/stabbing implement,890
+605,Kelly,Garrick,,,F,1969-10-09,Wh,injured,Firearm,693
+903,Adrian,Montesano,,,M,1986-05-06,Hi,killed,Unclear from report,960
+1089,Wilford,McCloud,Elijah,Jr.,M,1982-02-13,Blk,injured,Unarmed,1132
+742,Awar,Browder,Kareen ,,M,1978-04-08,Blk,injured,Firearm,827
+689,Antonio,Cooks,Lamont,,M,1978-10-09,Blk,killed,Firearm,783
+749,Wadkys,Napoleon,,,M,1986-11-06,Blk,injured,Vehicle,831
+780,Anthony,Harris,Dwayne,Sr.,M,1974-03-08,Blk,killed,Unarmed,855
+736,Rafael,Harrison,Terrell,,M,1986-08-27,Blk,injured,Vehicle,822
+765,Leonardo,Little,Marquette,,M,1981-06-10,Blk,killed,Taser,841
+880,Charles,Collins,William,,M,1971-10-05,Wh,killed,Vehicle,940
+888,Glenn,Humes,Aliven,Jr. ,M,1983-01-20,Blk,killed,Firearm,947
+902,William,Goodman,Alvin,III,M,1996-06-14,Wh,killed,Vehicle,959
+663,Sheldon,Norman,Cedric,,M,1992-03-26,Wh,suicide,Firearm,762
+825,Jason,Carulla,,,M,1997-02-12,Hi,killed,Vehicle,893
+834,Myron,May,Deshawn,,M,1983-03-21,Blk,killed,Firearm,902
+109,Allen,Bryant,J.,,M,1978-03-27,Blk,killed,Firearm,125
+1063,Eddie,Bean,Isaac,,M,1989-12-26,Blk,injured,Firearm,1106
+375,Sadiki,Allwood,Dakari,,M,1990-08-29,Blk,injured,Firearm,425
+815,Alejandro,Cordero-Rivera,Noel,,M,1982-11-19,Hi,killed,BB/Pellet Gun,884
+636,Kendrick,Herring,Roshun,,M,1990-01-31,Blk,injured,Firearm,737
+1085,Jarvis,Lee,Tyrone,,M,1986-11-05,Blk,injured,Firearm,1128
+910,Andrew,Thomas,,,M,1989-10-16,Blk,killed,Firearm,966
+271,Shawndell,McCann-Joseph,,,M,1992-02-13,Blk,injured,Firearm,283
+857,Raymond,Herisse,,,M,1989-03-01,Blk,killed,Vehicle,921
+1090,Jonathan,Woolfson,Scott,,M,1973-12-08,Unk,killed,Unarmed,1133
+1040,Desmond,Phillip,Emmanuel,,M,1992-04-07,Blk,injured,Unarmed,1085
+836,Dawn,Cameron,Renee,,F,1968-07-13,Wh,killed,Taser,904
+153,Shanterika,Thomas,Matrice,,F,1987-08-08,Blk,injured,BB/Pellet Gun,167
+1053,Anthony,Stahley,John ,,M,1984-08-25,Wh,injured,Blade/stabbing implement,1097
+720,Nkosi,McClain,Cazembe Oboi,,M,1993-02-16,Blk,injured,Firearm,699
+633,William,Poplos,Emanual,,M,1956-04-01,Wh,killed,Firearm,733
+235,Anthony,Gonzalez,Manuel,,M,1987-02-02,Hi,injured,BB/Pellet Gun,248
+600,Jason,Tucker,Alan,,M,1979-03-01,Wh,injured,BB/Pellet Gun,688
+835,Michael,Case,Scott,,M,1980-09-10,Wh,killed,Blade/stabbing implement,903
+1041,Robert,Donson,Jason,,M,1986-06-13,Blk,injured,Firearm,1086
+917,Dario,Ovejero,,,M,1984-10-03,Hi,injured,Vehicle,973
+928,Richard,Arruda,,Jr. ,M,1974-04-23,Hi,killed,Firearm,984
+1064,Richard,Sanfratello,Allan,,M,1947-04-01,Wh,injured,Firearm,1107
+924,John,Carr,Charles,Jr. ,M,1994-06-04,Blk,killed,Firearm,980
+1072,Triston,Johnson,,,M,1982-02-18,Blk,injured,Firearm,1116
+734,Todd,Jones,Christopher,,M,1971-06-12,Wh,killed,BB/Pellet Gun,820
+930,Jermassioun,Rodgers,Viondrey,,M,1993-11-04,Blk,killed,Unclear from report,986
+1075,Joshua,Boyce,David,,M,1978-11-26,Wh,injured,Vehicle,1119
+1091,Carlos,Sierra,A.,,M,1969-04-19,Hi,killed,Vehicle,1134
+911,Michael,Morrow,J.,,M,1944-03-04,Wh,killed,Firearm,967
+511,Reynaldo,Rodriguez,A.,,M,1973-01-08,Hi,injured,Unclear from report,597
+923,Trevor,Silvia,,,M,1980-06-11,Wh,killed,Blade/stabbing implement,979
+912,Marcial,Martinez-Ramirez,,,M,1951-05-10,Hi,killed,Blade/stabbing implement,968
+919,Khamis,Shatara,,,M,1993-07-17,Wh,killed,Unarmed,975
+922,John,Helive,Wesley,,M,1969-01-17,Wh,killed,Firearm,978
+916,Stephen,Arnoux,Andre,,M,1984-01-24,Blk,injured,Vehicle,972
+1082,Christian,Lopez-Recio,,,M,1991-02-06,Hi,injured,Unclear from report,1125
+1086,Joshua,Frazier,Lamarq,,M,1991-04-21,Blk,injured,Vehicle,1129
+354,Jahlil,Cobbs,Javier,,M,1996-02-02,Blk,injured,Firearm,394
+604,Joe,Toney,Louis,,M,1991-05-18,Blk,injured,Unarmed,692
+1098,Undisclosed,Undisclosed,,,U,,Unk,injured,Unarmed,653
+927,Cedric,Stanley,Torail,,M,1979-08-27,Blk,killed,Unarmed,983
+929,Steven,Thompson,J.,,M,1987-06-13,Blk,killed,Firearm,985
+1079,Randy,Thomas,Antonio,,M,1969-05-09,Blk,injured,Firearm,1122
+219,Donna,Weaver,M.,,F,1973-02-05,Wh,killed,Firearm,256
+147,Kentin,Brooks,Deon,,M,1983-09-29,Blk,killed,Firearm,163
+1042,Derrick,Cox,,,M,1970-07-13,Blk,injured,Vehicle,1087
+943,James,Collins,Bernard,,M,1963-04-28,Wh,killed,Blade/stabbing implement,999
+944,Nicholas,Burdett,Diamond,,M,1984-03-17,Wh,killed,Blade/stabbing implement,1000
+936,Aldo,Alvaraz,Omar,,M,1976-11-26,Hi,injured,Unarmed,992
+945,Jean,Printemps,Nesly,,M,1984-09-23,Blk,killed,Firearm,1001
+1055,Clifford,Work,F.,,M,1964-01-07,Wh,injured,Firearm,1099
+732,Justin,Bryant,Wallace,,M,1988-08-25,Wh,injured,Vehicle,677
+215,Aaron,Ray,Brinson,,M,1971-09-04,Wh,suicide,Firearm,232
+940,Marcus,Neloms,Lee,III,M,1983-06-20,Blk,killed,Firearm,996
+814,Anthony,Skyles,Lynn,Jr.,M,1990-04-14,Wh,killed,Blade/stabbing implement,883
+1065,Brian,Henderson,W.,,M,1964-04-14,Wh,injured,Other,1108
+939,Christopher,Thompson,Michael,,M,1993-08-19,Wh,killed,Firearm,995
+864,Arthur,James,,,M,1974-05-03,Blk,injured,Firearm,924
+846,Lisa,Taylor,,,F,1968-12-06,Wh,killed,BB/Pellet Gun,914
+937,Perciel,Hamilton,Rashaund,,M,1992-01-10,Blk,injured,Blunt/bludgeoning weapon,993
+977,Samir,Herrera,D.,,M,1977-10-12,Hi,injured,Firearm,1030
+164,Alberto,Valdes,,,M,1954-09-21,Hi,killed,Firearm,177
+181,Jeffrey,Wright,Allen,,M,1958-01-16,Wh,killed,Firearm,195
+852,Rosendo,Betancourt,,,M,1971-12-01,Hi,killed,Unarmed,917
+236,James,Kearse,Lee,,M,1977-07-06,Blk,injured,Vehicle,249
+435,Elba,Cartagena,,,F,1986-07-04,Hi,killed,Firearm,495
+931,Deosaran,Maharaj,,,M,1962-10-10,Blk,killed,Blade/stabbing implement,987
+130,Danny,Meredith,Michael,,M,1952-03-31,Wh,killed,Firearm,149
+1083,Jermaine,Wilson,L.,,M,1985-05-08,Blk,injured,Unarmed,1126
+950,Dallas,Adkins,Roger,Jr.,M,1949-08-14,Wh,killed,Firearm,1005
+947,Broderick,Hay,Fernando,,M,1958-06-19,Blk,injured,Vehicle,1002
+397,Husien,Shehada,,,M,1980-01-08,Wh,killed,Unarmed,471
+955,Gleen,Gomez,Dean,,M,1987-11-04,Blk,killed,Blade/stabbing implement,1009
+956,Ramon,Gomez,,,M,1989-09-07,Blk,injured,Unarmed,1010
+962,Kiana,Lamb,Sean,,M,1981-11-22,Blk,killed,Unarmed,1016
+963,Quang,Do,Due,,M,1970-09-28,As,killed,Blade/stabbing implement,1017
+965,Unknown,Unknown,,,M,,Unk,injured,Unclear from report,1019
+958,Delon,Sinclair,Roxroy,,M,1992-11-08,Blk,injured,Firearm,1012
+957,Jamil,Murray,Ramon,,M,1981-06-30,Blk,killed,Blade/stabbing implement,1011
+951,Javery,Holliday,,,M,1990-12-16,Blk,killed,BB/Pellet Gun,1006
+949,Dijon,Williams,R.,,M,1985-04-19,Blk,killed,Firearm,1004
+948,Alexander,James,C.,,M,1992-03-22,Blk,injured,Vehicle,1003
+1080,Franky,Charles,,,M,1982-05-13,Blk,injured,Unarmed,1123
+959,Ricardo,Orta,,Jr.,M,1991-09-21,Hi,injured,Firearm,1013
+952,Derrick,Mortin,A.,,M,1990-05-28,Blk,injured,Unarmed,1006
+968,Ramon,Rosario,James,,M,1992-07-05,Hi,injured,Firearm,1022
+964,Richard,Montero,,,M,1965-09-03,Hi,killed,Unarmed,1018
+954,Cesar,Maldonado,,,M,1987-02-10,Hi,killed,Unarmed,1008
+1043,Buddie,Raynaud,Paul,,M,1958-05-25,Wh,injured,Firearm,1088
+862,Ronald,Sexton,Wesley,,M,1989-10-14,Wh,killed,Firearm,923
+401,Carlos,Cespedes,Manuel,,M,1981-02-07,Hi,injured,Firearm,475
+560,Xavier,Escobar,Maurice,,M,1970-11-05,Hi,injured,Firearm,649
+358,Julie,Goodson,Kristin,,F,1967-01-10,Wh,killed,Blade/stabbing implement,399
+1076, Jason,O'Brien,Alfonso,,M,1971-12-06,Wh,injured,Blade/stabbing implement,1120
+1066,Dedrick,Lewis,,,M,1988-11-05,Blk,injured,Unclear from report,1109
+953,Carlos,Perez-Alonso,Javier,,M,1977-02-10,Hi,killed,BB/Pellet Gun,1007
+961,Jonathon,John,,,M,,Unk,injured,Unarmed,1015
+969,Allen,Hunter,H.,,M,1965-05-21,Blk,killed,Unarmed,1023
+970,Jamar,Anderson,F.,,M,1986-12-14,Blk,killed,Vehicle,1024
+988,Byron,Perez-Leon,Eliceo,,M,1992-12-06,Hi,injured,Firearm,1041
+971,Michael,Norton,Lee Thompson,,M,1988-01-31,Wh,injured,Unclear from report,1025
+975,Keshaun,Fleming,Lamont,,M,1982-07-16,Blk,killed,Firearm,1029
+972,Jesus,Barreto,Emmanuel,,M,1988-03-08,Hi,killed,Blade/stabbing implement,1026
+987,Joshua,Jett,A.,,M,1986-09-02,Hi,injured,Vehicle,1040
+976,Janira,Calderin,,,F,1980-10-20,Hi,injured,Unarmed,1030
+986,Lance,Joseph,,,M,1988-07-26,Blk,injured,Firearm,1039
+991,Anna,Beach,Marie,,F,1975-06-04,Wh,killed,Unarmed,1044
+993,Derrick,Vaccianna,Norman,,M,1984-01-10,Blk,killed,Unarmed,1046
+979,Claude,Jolicoeur,Devin,III,M,1995-01-31,Blk,killed,Firearm,1032
+787,Nicholas,Underwood,Samuel,,M,1988-01-24,Blk,killed,Firearm,862
+985,Craig,Demps,Antwan,,M,1991-01-23,Blk,killed,Unarmed,1038
+974,Susan,Pacifici,Jayne,,F,1960-07-25,Wh,injured,Firearm,1028
+1094,,,,,,,,,,512
+997,Ronald,Bullock,James,,M,1949-02-21,Wh,killed,Blade/stabbing implement,1050
+978,Mellow,Scheetz,D.,,F,1977-10-01,Wh,injured,Unarmed,1031
+973,Robert,Robinson,Timothy,,M,1991-09-19,Blk,injured,Firearm,1027
+992,Sandra,Silcox,June,,F,1961-06-07,Wh,killed,Unarmed,1045
+1084,Daniel,Ealey,,,M,,Blk,injured,Firearm,1127
+967,Robert,Geiserman,M.,,M,1941-03-27,Wh,suicide,Firearm,1021
+980,Dontrell,Stephens,L.,,M,1993-04-20,Blk,injured,Unarmed,1033
+1044,Abel,Martinez,,,M,1972-07-01,Hi,injured,Unarmed,1089
+995,Clifton,Salter,Austin,,M,1949-09-21,Wh,killed,Firearm,1048
+994,Sean,Harris,Thomas,,M,1987-07-03,Blk,killed,Other,1047
+990,Jay,Stankovich,Donald,,M,1988-11-04,Wh,killed,Firearm,1043
+984,Moses,McCray,Anthony,,M,1980-11-18,Blk,injured,Firearm,1037
+983,Timothy,Dillon,Charles,,M,1969-10-19,Wh,injured,Firearm,1036
+982,Dimitri,Smalls,Delarous,,M,1992-05-23,Blk,injured,Firearm,1035
+998,Wade,Williams,Andrew,,M,1975-06-27,Wh,killed,Firearm,1051
+1008,Alexis,Suarez-Reyes,,,M,1965-05-01,Hi,killed,Firearm,1060
+1000,Starling,Javier,,,M,1989-10-31,Blk,killed,Firearm,1053
+1001,Kamyn,Bright,Jodeci William,,M,1992-10-25,Blk,killed,Firearm,1054
+68,Sarah,Gauvin,Kate McCracken,,F,1980-07-08,Wh,killed,Unarmed,90
+243,George,Vincent,Orin,IV,M,1960-01-16,Wh,killed,Firearm,258
+1004,Luis,Nunez,Enrique,,M,1963-08-28,Hi,killed,Other,1057
+1003,Javier,Diaz,,,M,1983-05-22,Hi,injured,Vehicle,1056
+907,Dominique,Jean,,,M,1962-08-30,Blk,killed,Blade/stabbing implement,963
+1010,Michael,Parks,Nathaniel,,M,1991-01-26,Blk,injured,Unarmed,1061
+1009,Lebron,Warren,Sharad,,M,1989-08-01,Blk,killed,Vehicle,1061
+1011,David,Alexis,N.,,M,1986-04-25,Blk,killed,Firearm,1062
+1067,Freddie,Bradley,Leon,,M,1990-01-07,Blk,injured,Vehicle,1110
+1015,Drew,Pozdol,Randolph,,M,1985-07-26,Wh,killed,Blade/stabbing implement,1066
+6,Ian,Burlakoff,,,M,1971-10-18,Wh,killed,Firearm,27
+1016,Marcus,Rogers,Deon,,M,1992-02-09,Blk,killed,Unarmed,1067
+1013,Fernando,Benavides,,,M,,Hi,killed,Vehicle,1064
+1018,Jesus,Valdes,,,M,1959-05-25,Hi,killed,Firearm,1069
+1017,Edilberto,Santana,,,M,1959-12-25,Hi,killed,Unclear from report,1068
+1021,Jose,Hernandez,Ivan,,M,1976-12-29,Hi,killed,Vehicle,1072
+908,Dimetri,Polen,Deion,,M,1989-10-06,Blk,killed,Firearm,964
+1045,Floyd,Williams,Jerome,,M,1993-02-01,Unk,injured,Firearm,1090
+996,Robert,Sharp,Rankin,,M,1957-09-03,Wh,killed,Firearm,1049
+843,Anthony,Landi,,,M,1987-10-02,Wh,killed,BB/Pellet Gun,911
+1014,Catawaba,Howard,Tequila,,F,1979-02-27,Blk,killed,Firearm,1065
+525,Pamela,Edwards,Ann,,F,1974-02-22,Wh,killed,Firearm,614
+113,Thomas,Kollman,,Jr.,M,1964-11-29,Wh,killed,Firearm,291
+1006,Gristoval,Aviles,,,M,1980-07-13,Hi,killed,Firearm,1058
+1022,Sheri,Carter,Deann,,F,1982-01-17,Wh,killed,Unarmed,1073
+1078,David,Bachelor,Richard,,M,1974-09-28,Wh,injured,Unarmed,1121
+1026,Undisclosed,Undisclosed,,,F,,Unk,injured,Unarmed,52
+440,James,Duttman,David,,M,1955-12-11,Wh,killed,Firearm,521
+148,Ross,Lambert,Edward,,M,1982-10-25,Wh,killed,Firearm,164
+1028,Sean,Grant,Sylvester,III,M,1986-01-17,Oth,injured,Vehicle,1077
+1029,William,Kitchen,Alan Cole,II,M,1987-08-22,Wh,injured,Unarmed,1077
+1025,Jared,Speakman,William,,M,1993-09-12,Wh,killed,Firearm,1076
+334,Charlie,Bates,Christopher,,M,1989-02-26,Blk,killed,Firearm,361
+548,Robert,Striffler,Charles,,M,1962-06-01,Wh,killed,BB/Pellet Gun,636
+1095,,,,,,,,,,622
+400,Glenn,Briggs,Llewelyn,,M,1962-01-10,Blk,killed,Firearm,474
+69,Kevin,Cyr,,,M,1974-09-05,Wh,injured,BB/Pellet Gun,90
+209,Cory,Tanner,Levert,,M,1989-09-04,Blk,killed,Unarmed,224
+1099,Larry,Williams,Jerome,,M,1963-08-17,Blk,injured,Firearm,1136
+1092,Anthony,Smith,Michael,,M,1988-06-28,Blk,injured,Firearm,1135
+1019,Durrall,Miller,Jessie,,M,1986-09-04,Blk,killed,Unarmed,1070
+691,Harrison,Carter,G.,,M,1984-11-24,Blk,suicide,Firearm,784
+1030,Leobigildo,Espinoza,,,M,1975-12-01,Hi,injured,Unarmed,1078
+1031,Javier,Perez,,,M,1974-11-08,Hi,injured,BB/Pellet Gun,1078
+1058,Edison,Buford,Karem,,M,1984-08-31,Blk,injured,Firearm,1101
+1027,Undisclosed,Undisclosed,,,M,,Unk,injured,Unclear from report,972
+666,Rodrigo,Espinoza,,,M,1989-01-18,Hi,killed,Firearm,770
+760,Avery,Corbitt,Michael,,M,1991-11-21,Wh,injured,Firearm,770
+642,Carlos,Rivera-Rodriguez,,,M,1985-11-10,Hi,injured,BB/Pellet Gun,742
+1074,Reginald,Allen,,,M,1990-08-01,Blk,injured,Unclear from report,1118
+573,Beaver,Duncan,Dontavious,,M,1986-04-12,Blk,injured,Firearm,664
+574,Jeremy,Williams,Shea,,M,1984-06-24,Blk,injured,Firearm,664
+562,Patrick,Tillery,Jerome,,M,1970-11-24,Wh,killed,Firearm,651
+531,Joshua,Cartwright,William,,M,1981-01-31,Wh,suicide,Firearm,620
+960,Celso,Marrero Rebuelta,,,M,1957-12-12,Hi,killed,Blade/stabbing implement,1014
+914,Danny,Valdes,,,M,1982-12-04,Hi,killed,Unarmed,970
+938,Michael,Wallach,James,,M,1989-09-14,Wh,injured,Firearm,994
+1023,Aaron,Martin,David,,M,1972-07-29,Wh,injured,Other,1074
+1002,Arturo,Guzman,Jorge,,M,1961-12-23,Hi,killed,Firearm,1055
+1101,Yowab,Ben-Israel,,,M,1968-11-05,Blk,injured,Firearm,1138
+849,Roger,Gonzalez-Valdez,,Sr.,M,1958-10-25,Hi,killed,Unarmed,917
+850,Jorge,Lemus,Luis,,M,1972-04-04,Hi,killed,Firearm,917
+1102,Carmelo,Quijada,,,M,1958-06-16,Hi,injured,Blade/stabbing implement,1139
+1103,Yamil,Paz,,,M,1966-09-10,Wh,injured,Vehicle,1140
+270,Matthew,Wilson,Blaine,,M,1990-07-08,Wh,injured,Vehicle,281
+175,Richard,Rivera,,Jr. ,M,1984-12-01,Hi,injured,Firearm,190
